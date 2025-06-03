@@ -65,7 +65,7 @@
 &none   &hm LGUI N   &hm LALT G   &hm LCTRL R   &none       &none     &hm RCTRL U   &hm RALT I   &hm RGUI O   &none
 &kp A   &kp S        &kp D        &kp F         &none       &none     &kp J         &kp K        &kp L        &kp SEMI
 &none   &none        &none        &none         &none       &none     &none         &none        &none        &none
-                     &mo NUM      &mo AL2       &kp BSPC    &mo NAV   &kp SPACE     &skq SHIFT
+                     &mo NUM      &mo AL2       &kp BSPC    &mo NAV   &kp SPACE     &skq LSHIFT
         >;
         };
 
